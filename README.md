@@ -10,4 +10,4 @@ Les codes sources sont organisés ainsi:
      ajout d'information dans l'affichage
      Gestion des explosions
      
-     ![Copie d'écran](https://github.com/Gilles3556/JAVA_SPACE_INVADERS/blob/main/space_invaders_sreenshot.png)
+     https://github.com/Gilles3556/JAVA_SPACE_INVADERS/blob/main/space_invaders_sreenshot.png
