@@ -10,4 +10,4 @@ Les codes sources sont organisés ainsi:
      ajout d'information dans l'affichage
      Gestion des explosions
      
-     
+     ![alt text](http://url/to/img.png)
