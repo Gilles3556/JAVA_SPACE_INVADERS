@@ -1,6 +1,6 @@
 # JAVA_SPACE_INVADERS
 
-![Screenshot]space_invaders_sreenshot.png)
+![Screenshot](space_invaders_sreenshot.png)
 
 
 Une reprise du code sce de janbodnar que vous pourrez trouver ICI: https://github.com/janbodnar/Java-Space-Invaders.
